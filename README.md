@@ -133,6 +133,6 @@ npx wrangler secret put GOOGLE_CLIENT_SECRET
   повторный Connect, либо переведите приложение в статус «In production».
 
 ## Лицензия
-
+ 
 [MIT](LICENSE). Проект не аффилирован с Google и Fitbit. Используете на свой
 страх и риск; это не медицинское устройство и не медицинский совет.
